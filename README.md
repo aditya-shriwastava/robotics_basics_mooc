@@ -1,5 +1,5 @@
-## Robotics Engineering Core
-> To Master Robotics Engineering you must take the following MOOC courses (Book) or its Equivalent.
+## Robotics Basics MOOC
+> To Master the basics of Robotics, you must take the following MOOC courses (Book) or its Equivalent. 
 1. [Artificial Intelligence](./Artificial_Intelligence.md)
 2. [Computer Vision](./Computer_Vision.md)
 3. [Mathematics](./Mathematics.md)
