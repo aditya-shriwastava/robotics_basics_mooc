@@ -7,5 +7,5 @@
 6. Support Vector Machine
 7. Kernels
 8. Bias and Variance, Regularization, Data Splits, Models and Cross Validation
-9. Approx Estimation Error and ERM
+9. Learning Theory 
 10. Decision Trees and Ensemble Methods
