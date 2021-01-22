@@ -7,5 +7,3 @@
   - UC Berkeley
 4. Introduction to Prabability [Spring 2018]
   - MIT
-5. (EE 364A&B) Convex Optimization **[Advanced Course]**
-  - Stanford, Stephen P. Boyd
