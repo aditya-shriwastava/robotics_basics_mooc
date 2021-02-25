@@ -3,16 +3,20 @@
   - MIT
 2. (EECS 280x) Programming and Introductory Data Structures [2015]
   - University of Michigan, Edwin Olson
-3. (CS 110) Principles of Computer Systems [Spring 2019]
+3. Modern C++ [2018]
+  - University of Bonn, Igro
+4. Design Patterns in Modern C++
+  - Udemy, Dmitri Nesteruk
+5. (CS 110) Principles of Computer Systems [Spring 2019]
   - Stanford, Chris Gregg
-4. The Missing Semester of Your CS Education [2020]
+6. The Missing Semester of Your CS Education [2020]
   - MIT
-5. Networking [Pluralsight]
+7. Networking [Pluralsight]
   - (a) Introduction to Networking
   - (b) Network Interface Layer: Ethernet
   - (c) Network Layer: Addressing
   - (d) Application Layer: Protocols
-6. (CS w186) Introduction to Database System [Fall 2018]
+8. (CS w186) Introduction to Database System [Fall 2018]
   - UC Berkeley, Joe Hellerstein
-7. (CME 213) Introduction to Parallel Computing using MPI, openMP, and CUDA [Winter 2020]
+9. (CME 213) Introduction to Parallel Computing using MPI, openMP, and CUDA [Winter 2020]
   - Stanford

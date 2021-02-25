@@ -8,4 +8,4 @@
   - Stanford, Andrew Ng
   - Lecture 1 to Lecture 10
   - Core of Supervised Machine Learning
-  - No Neural Networks or Reinforcement Learning
+  - No Neural Networks, Unsupervised Learning or Reinforcement Learning

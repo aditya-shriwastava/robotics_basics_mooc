@@ -4,8 +4,8 @@
 3. Locally Weighted and Logistics Regression
 4. Generalized Linear Model
 5. GDA and Naive Bayes
-6. Support Vector Machine
-7. Kernels
+6. Optimal Margin Classifier
+7. SVM and Kernels
 8. Bias and Variance, Regularization, Data Splits, Models and Cross Validation
 9. Learning Theory 
 10. Decision Trees and Ensemble Methods
