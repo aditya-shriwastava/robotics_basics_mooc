@@ -16,7 +16,3 @@
   - (b) Network Interface Layer: Ethernet
   - (c) Network Layer: Addressing
   - (d) Application Layer: Protocols
-8. (CS w186) Introduction to Database System [Fall 2018]
-  - UC Berkeley, Joe Hellerstein
-9. (CME 213) Introduction to Parallel Computing using MPI, openMP, and CUDA [Winter 2020]
-  - Stanford
