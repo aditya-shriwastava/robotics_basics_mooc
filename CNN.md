@@ -9,6 +9,5 @@
 7. Training Neural Networks: Part2
 8. Deep Learning Softwares
 9. CNN Architecture
-10. Detection and Segmentation
-11. Efficient Methods and Hardware for Deep Learning
-
+10. Recurrent Neural Network
+11. Detection and Segmentation
