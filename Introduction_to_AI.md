@@ -17,4 +17,3 @@
 16. BNs: Sampling
 17. Decision Network | VPI
 18. HMMs
-19. Particle Filtering and Apps of HMMs
