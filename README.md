@@ -8,3 +8,5 @@
 6. [Motion Planning](./Motion_Planning.md)
 7. [State Estimation](./State_Estimation.md)
 8. [Computer Science](./Computer_Science.md)
+9. [Robot Specific](./Robot_Specific.md)
+10. [Robot Hardware (Prototype Level)](./Robot_Hardware.md)
