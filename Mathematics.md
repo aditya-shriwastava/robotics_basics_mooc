@@ -5,4 +5,4 @@
   - Stanford, Stephen P. Boyd
 3. [Matrix Calculus](./MatrixCalculus.md)
 4. [Introduction to Probability [Spring 2018]](./Introduction_to_probability.md)
-  - MIT
+  - MIT, John Tsitsiklis

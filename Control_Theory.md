@@ -5,3 +5,5 @@
 2. [Advanced Control System 1 [Fall 2018]](./Advanced_control_system_1.md)
   - UC Berkeley, Masayoshi Tomizuka
   - Modern Control Theory: State-space, LQR
+3. [(CS287) Advanced Robotics [Fall 2019]]()
+  - UC Berkeley, Pieter Abbeel

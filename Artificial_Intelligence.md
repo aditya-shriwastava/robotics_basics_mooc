@@ -9,6 +9,7 @@
   - Lecture 1 to Lecture 10
   - Core of Supervised Machine Learning
   - No Neural Networks, Unsupervised Learning or Reinforcement Learning
-
-3. (CS287) Advanced Robotics [Fall 2019]
+3. [(CS285) Deep Reinforcement Learning [Fall 2020]]()
+  - UC Berkeley, Sergey Levine
+4. [(CS294) Deep Unsupervised Learning [Spring 2020]]()
   - UC Berkeley, Pieter Abbeel
