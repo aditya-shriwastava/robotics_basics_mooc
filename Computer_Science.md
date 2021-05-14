@@ -16,3 +16,6 @@
   - (b) Network Interface Layer: Ethernet
   - (c) Network Layer: Addressing
   - (d) Application Layer: Protocols
+8. [Python Introduction Playlist
+](https://www.youtube.com/playlist?list=PLgnQpQtFTOGRKTPxhXZ68kKAQtsy76s0S)
+  - University of Bonn, Cyrill Stachniss
