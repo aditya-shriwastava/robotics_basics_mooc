@@ -7,3 +7,6 @@
   - Modern Control Theory: State-space, LQR
 3. [(CS287) Advanced Robotics [Fall 2019]]()
   - UC Berkeley, Pieter Abbeel
+4. [Underactuated Robotics [Spring 2019]]()
+  - MIT, Russ Tedrake
+  - Optimal control, Statespace analysis, Nonlinear dynamics(analysis), Humanoids
