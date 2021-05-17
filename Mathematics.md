@@ -6,7 +6,7 @@
   - [Video Lectures](https://www.youtube.com/playlist?list=PL06960BA52D0DB32B), [Course Website](https://see.stanford.edu/Course/EE263)
   - Stanford, Stephen P. Boyd
 3. [Matrix Calculus](./MatrixCalculus.md)
-  - [Reff](http://cs229.stanford.edu/section/cs229-linalg.pdf)
+  - [CS229 Reff](http://cs229.stanford.edu/section/cs229-linalg.pdf), Zico Kolter
 4. [Introduction to Probability [Spring 2018]](./Introduction_to_probability.md)
   - [Video Lectures](https://www.youtube.com/playlist?list=PLUl4u3cNGP60hI9ATjSFgLZpbNJ7myAg6), [Course Website](https://ocw.mit.edu/resources/res-6-012-introduction-to-probability-spring-2018/)
   - MIT, John Tsitsiklis

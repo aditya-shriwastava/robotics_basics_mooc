@@ -6,6 +6,7 @@
 
 2. [(ME 547) Linear Systems]()
   - [Video Lectures](https://www.youtube.com/playlist?list=PLujcneWPG6EB0KrqW_dEVZVmsFtxYEzek), [Course Website](https://faculty.washington.edu/chx/teaching/me547/)
+  - University of Washington, Xu Chen
 
 3. [(CS287) Advanced Robotics [Fall 2019]](./Advanced_Robotics.md)
   - [Video Lectures](https://www.youtube.com/playlist?list=PLwRJQ4m4UJjNBPJdt8WamRAt4XKc639wF), [Course Website](https://people.eecs.berkeley.edu/~pabbeel/cs287-fa19/)
