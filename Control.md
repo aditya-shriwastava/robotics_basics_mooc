@@ -1,4 +1,4 @@
-## Control Theory
+## Control
 1. [Control System 1 [2017]](./Control_system_1.md)
   - [Video Lectures](https://www.youtube.com/playlist?list=PLzn6LN6WhlN1OqX0ratNByEat1CtI0U7r)
   - ETH Zurich, Emilio Frazzoli
