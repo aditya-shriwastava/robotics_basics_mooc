@@ -10,3 +10,7 @@
 4. [Introduction to Probability [Spring 2018]](./Introduction_to_probability.md)
   - [Video Lectures](https://www.youtube.com/playlist?list=PLUl4u3cNGP60hI9ATjSFgLZpbNJ7myAg6), [Course Website](https://ocw.mit.edu/resources/res-6-012-introduction-to-probability-spring-2018/)
   - MIT, John Tsitsiklis
+
+5. [Convex Optimization I]()
+  - [Video Lectures](https://www.youtube.com/playlist?list=PL3940DD956CDF0622), [Course Website](https://see.stanford.edu/Course/EE364A)
+  - Stanford, Stephen P. Boyd
