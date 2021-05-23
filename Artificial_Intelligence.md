@@ -11,9 +11,19 @@
   - Lecture 1 to Lecture 10
   - Core of Supervised Machine Learning
   - No Neural Networks, Unsupervised Learning or Reinforcement Learning
-3. [(CS285) Deep Reinforcement Learning [Fall 2020]]()
+
+3. [(CS 231n) Convolutional Neural Network for visual Recogination (Spring 2017)](./CNN.md)
+  - [Video Lectures](https://www.youtube.com/playlist?list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv), [Course Website](http://cs231n.stanford.edu/2017/)
+  - Stanford, Andrej Karpathy, Fei-Fei-Li
+
+4. [Computer Vision: Detection, Segmentation and Tracking, 2020]()
+  - [Video Lectures](https://www.youtube.com/playlist?list=PLog3nOPCjKBneGyffEktlXXMfv1OtKmCs), [Course Website](https://dvl.in.tum.de/teaching/cv3dst-ss20/)
+  - TUM, Laura Leal-Taixé
+
+5. [(CS285) Deep Reinforcement Learning [Fall 2020]]()
   - [Video Lectures](https://www.youtube.com/playlist?list=PL_iWQOsE6TfURIIhCrlt-wj9ByIVpbfGc), [Course Website](http://rail.eecs.berkeley.edu/deeprlcourse/)
   - UC Berkeley, Sergey Levine
-4. [(CS294) Deep Unsupervised Learning [Spring 2020]]()
+
+6. [(CS294) Deep Unsupervised Learning [Spring 2020]]()
   - [Video Lectures](https://www.youtube.com/playlist?list=PLwRJQ4m4UJjPiJP3691u-qWwPGVKzSlNP), [Course Website](https://sites.google.com/view/berkeley-cs294-158-sp20/home)
   - UC Berkeley, Pieter Abbeel
