@@ -3,22 +3,23 @@
   - [Video Lectures](https://www.youtube.com/playlist?list=PLsOUugYMBBJENfZ3XAToMsg44W7LeUVhF), [Course Website](https://inst.eecs.berkeley.edu/~cs188/fa18/)
   - UC Berkeley, Pieter Abbeel
   - Lecture 0 to Lecture 18
-  - Search, MDP, RL, Probablistic Reasoning
+  - Search, Introductory MDP & RL, Probabilistic Graphical Model
 
 2. [(CS 229) Introduction to Machine Learning [Autumn 2018]](./Introduction_to_Machine_Learning.md)
   - [Video Lectures](https://www.youtube.com/playlist?list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU), [Course Website](http://cs229.stanford.edu/syllabus-autumn2018.html)
   - Stanford, Andrew Ng
   - Lecture 1 to Lecture 10
-  - Core of Supervised Machine Learning
-  - No Neural Networks, Unsupervised Learning or Reinforcement Learning
+  - Core of Supervised Machine Learning (No Neural Networks)
 
 3. [(CS 231n) Convolutional Neural Network for visual Recogination (Spring 2017)](./CNN.md)
   - [Video Lectures](https://www.youtube.com/playlist?list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv), [Course Website](http://cs231n.stanford.edu/2017/)
   - Stanford, Andrej Karpathy, Fei-Fei-Li
+  - Deep Learning
 
 4. [Computer Vision: Detection, Segmentation and Tracking, 2020]()
   - [Video Lectures](https://www.youtube.com/playlist?list=PLog3nOPCjKBneGyffEktlXXMfv1OtKmCs), [Course Website](https://dvl.in.tum.de/teaching/cv3dst-ss20/)
   - TUM, Laura Leal-Taixé
+  - Deep Learning Approaches to Computer Vision
 
 5. [(CS285) Deep Reinforcement Learning [Fall 2020]]()
   - [Video Lectures](https://www.youtube.com/playlist?list=PL_iWQOsE6TfURIIhCrlt-wj9ByIVpbfGc), [Course Website](http://rail.eecs.berkeley.edu/deeprlcourse/)
