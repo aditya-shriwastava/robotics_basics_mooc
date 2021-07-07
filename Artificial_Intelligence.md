@@ -16,15 +16,10 @@
   - Stanford, Andrej Karpathy, Fei-Fei-Li
   - Deep Learning
 
-4. [Computer Vision: Detection, Segmentation and Tracking, 2020]()
-  - [Video Lectures](https://www.youtube.com/playlist?list=PLog3nOPCjKBneGyffEktlXXMfv1OtKmCs), [Course Website](https://dvl.in.tum.de/teaching/cv3dst-ss20/)
-  - TUM, Laura Leal-Taixé
-  - Deep Learning Approaches to Computer Vision
-
-5. [(CS285) Deep Reinforcement Learning [Fall 2020]]()
+4. [(CS285) Deep Reinforcement Learning [Fall 2020]]()
   - [Video Lectures](https://www.youtube.com/playlist?list=PL_iWQOsE6TfURIIhCrlt-wj9ByIVpbfGc), [Course Website](http://rail.eecs.berkeley.edu/deeprlcourse/)
   - UC Berkeley, Sergey Levine
 
-6. [(CS294) Deep Unsupervised Learning [Spring 2020]]()
+5. [(CS294) Deep Unsupervised Learning [Spring 2020]]()
   - [Video Lectures](https://www.youtube.com/playlist?list=PLwRJQ4m4UJjPiJP3691u-qWwPGVKzSlNP), [Course Website](https://sites.google.com/view/berkeley-cs294-158-sp20/home)
   - UC Berkeley, Pieter Abbeel

@@ -12,7 +12,7 @@
 3. [(CS287) Advanced Robotics [Fall 2019]](./Advanced_Robotics.md)
   - [Video Lectures](https://www.youtube.com/playlist?list=PLwRJQ4m4UJjNBPJdt8WamRAt4XKc639wF), [Course Website](https://people.eecs.berkeley.edu/~pabbeel/cs287-fa19/)
   - UC Berkeley, Pieter Abbeel
-  - LQR, ILQR, MPC
+  - Optimal Control: LQR, ILQR, MPC
 
 4. [(MIT 6.832) Underactuated Robotics [Spring 2019]]()
   - [Video Lectures](https://www.youtube.com/playlist?list=PLkx8KyIQkMfVG-tWyV3CcQbon0Mh5zYaj), [Course Website](http://underactuated.csail.mit.edu/Spring2019/)
