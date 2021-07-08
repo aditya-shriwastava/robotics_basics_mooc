@@ -3,7 +3,7 @@
   - [Video Lectures](https://www.youtube.com/playlist?list=PLDSlqjcPpoL64CJdF0Qee5oWqGS6we_Yu)
   - MIT
 
-2. [(EECS 280x) Programming and Introductory Data Structures [2015]]()
+2. [(EECS 280x) Programming and Introductory Data Structures [2015]](./Programming_and_Introductory_Data_Structures.md)
   - [Video Lectures](https://april.eecs.umich.edu/courses/eecs280_w16/)
   - University of Michigan, Edwin Olson
 
