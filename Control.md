@@ -8,3 +8,8 @@
   - [Video Lectures](https://www.youtube.com/playlist?list=PLujcneWPG6EB0KrqW_dEVZVmsFtxYEzek), [Course Website](https://faculty.washington.edu/chx/teaching/me547/)
   - University of Washington, Xu Chen
   - State Space Representation, Stability, Controllability & Observability of Linear Dynamical System
+
+3. [Robotics [2021]]()
+  - [Course Website](https://ipvs.informatik.uni-stuttgart.de/mlr/robotics-ss21/), [Video Lectures](https://www.youtube.com/playlist?list=PLG_JdDnkEdEEGYM6F3xzArXulH10YyRPI)
+  - Jim Mainprice, University of Stuttgart
+  - Optimal Control (Lecture 5 & 6)

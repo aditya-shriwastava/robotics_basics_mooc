@@ -4,6 +4,3 @@
 2. [Simultaneous localization and mapping (SLAM) [2013 & 2021]](./SLAM.md)
   - [Video Lectures 2013](https://www.youtube.com/playlist?list=PLgnQpQtFTOGQrZ4O5QzbIHgl3b1JHimN_), [Video Lecture 2021](https://www.youtube.com/playlist?list=PLgnQpQtFTOGQh_J16IMwDlji18SWQ2PZ6)
   - University of Bonn, Cyrill Stachiniss
-
-#### Note:
-* Reff CS188 from [Artificial Intelligence](./Artificial_Intelligence.md) for Probablistic Reasoning
