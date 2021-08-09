@@ -1,5 +1,6 @@
 # Robotics Basics MOOC
 > To Master the basics of Robotics, you must take the following MOOC courses (Book) or its Equivalent.
+
 > Note: This list is bised toward "Mobile Robot Navigation" & "Manipulation"
 1. [Artificial Intelligence](./Artificial%20Intelligence/index.md)
 2. [Computer Vision](./Computer%20Vision/index.md)
