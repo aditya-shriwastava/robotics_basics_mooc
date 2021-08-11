@@ -1,5 +1,8 @@
 # Photogrammetry
 
+## References
+* [My Lecture Notes](https://github.com/notebook-org/robotics/blob/master/Computer%20Vision/Photogrammetry/index.md)
+
 ## Info
 - University of Bonn, Cyrill Stachiniss
 
