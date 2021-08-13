@@ -1,4 +1,4 @@
-# (CS 231n) Convolutional Neural Network for visual Recogination (Spring 2017)
+# (CS 231n) Convolutional Neural Network for visual Recogination [Spring 2017]
 
 ## References
 * [Video Lectures](https://www.youtube.com/playlist?list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv)
@@ -20,5 +20,3 @@
 7. Training Neural Networks: Part2
 8. Deep Learning Softwares
 9. CNN Architecture
-10. Recurrent Neural Network
-11. Detection and Segmentation

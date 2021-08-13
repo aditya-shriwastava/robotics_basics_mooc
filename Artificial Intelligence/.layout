@@ -1,7 +1,9 @@
 Order:
 - (CS 188) Introduction to Artificial Intelligence [Fall 2018]
 - (CS 229) Introduction to Machine Learning [Autumn 2018]
-- (CS 231n) Convolutional Neural Network for visual Recogination (Spring 2017)
-- (CS285) Deep Reinforcement Learning [Fall 2020]
-- (CS294) Deep Unsupervised Learning [Spring 2020]
+- (CS 231n) Convolutional Neural Network for visual Recogination [Spring 2017]
+- (CS W182) Designing, Visualizing and Understanding Deep Neural Networks [Spring
+  2021]
+- (CS 285) Deep Reinforcement Learning [Fall 2020]
+- (CS 294) Deep Unsupervised Learning [Spring 2020]
 Ordered: true
