@@ -14,4 +14,4 @@
 
 #### Note:
 - This list is bised toward "Mobile Robot Navigation" & "Manipulation"
-- Built using [Notestree](https://github.com/aditya-shriwastava/NotesTree)
+- Built using [NotesTree](https://github.com/aditya-shriwastava/NotesTree)
