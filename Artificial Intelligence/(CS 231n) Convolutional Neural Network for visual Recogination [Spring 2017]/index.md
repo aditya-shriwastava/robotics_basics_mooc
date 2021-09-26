@@ -8,7 +8,7 @@
 
 ## Info
 - Stanford, Andrej Karpathy, Fei-Fei-Li
-- Deep Learning
+- Introduction to Deep Neural Network, CNN & Deep Learning Softwares (i.e. PyTorch)
 
 ## Content
 1. Introduction to CNN for Visual Recogination
