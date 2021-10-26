@@ -3,6 +3,7 @@
 ## References
 * [Video Lectures](https://www.youtube.com/playlist?list=PLgnQpQtFTOGQo2Z_ogbonywTg8jxCI9pD)
 * [Course Website](https://www.ipb.uni-bonn.de/sdc-2020/)
+* [My Lecture Notes](https://github.com/notebook-org/robotics/blob/master/Self%20Driving%20Car/Self-Driving_Cars_Winter_2021_Uni_Bonn/Self-Driving_Cars_Winter_2021_Uni_Bonn.md)
 
 ## Info
 - University of Bonn, Cyrill Stachniss

@@ -3,6 +3,7 @@
 ## References
 * [Video Lectures](https://www.youtube.com/playlist?list=PL06960BA52D0DB32B)
 * [Course Website](https://see.stanford.edu/Course/EE263)
+* [My Lecture Notes](https://github.com/notebook-org/Mathematics/tree/master/LinearDynamicalSystem)
 
 ## Info
 - Stanford, Stephen P. Boyd

@@ -1,0 +1,5 @@
+# Networking Concepts and Protocols, Pluralsight
+
+## References
+* [Cource Website](https://www.pluralsight.com/courses/comptia-network-plus-networking-concepts)
+* [My Lecture Notes](https://github.com/notebook-org/Computer_Science/blob/master/Networking/pluralsight/index.md)

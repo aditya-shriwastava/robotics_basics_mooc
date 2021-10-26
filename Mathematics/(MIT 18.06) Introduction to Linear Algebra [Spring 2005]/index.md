@@ -3,6 +3,7 @@
 ## References
 * [Video Lectures](https://www.youtube.com/playlist?list=PL49CF3715CB9EF31D)
 * [Course Website](https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/)
+* [My Lecture Notes](https://github.com/notebook-org/Mathematics/blob/master/Linear%20Algebra%20Gilbert%20Strang/linear_algebra.pdf)
 
 ## Info
 - MIT, Gilbert Strang
