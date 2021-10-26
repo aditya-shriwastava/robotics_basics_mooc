@@ -9,4 +9,7 @@
 
 ## Content
 1. [Introduction to MPC](https://www.youtube.com/watch?v=XaD8Lngfkzk)
-1. [Numerical Methods for MPC](https://www.youtube.com/watch?v=TtGCEzYxM_A)
+2. [Numerical Methods for MPC](https://www.youtube.com/watch?v=TtGCEzYxM_A)
+  - LQR
+  - Dynamic Programming to solve LQR
+  - ILQR for extending LQR to non-linear case.
