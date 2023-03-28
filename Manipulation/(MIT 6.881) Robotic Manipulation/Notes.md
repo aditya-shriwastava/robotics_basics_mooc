@@ -1,2 +1,0 @@
-## Info
-- MIT, Russ Tedrake

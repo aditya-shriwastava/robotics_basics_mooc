@@ -2,7 +2,6 @@
 
 ## References
 * [Video Lectures](https://www.youtube.com/playlist?list=PLzn6LN6WhlN1OqX0ratNByEat1CtI0U7r)
-* [My Lecture Notes](https://github.com/notebook-org/robotics/blob/master/Control/Classical%20Control/ETH%20Zurich%20Control%20System%201/index.md)
 
 ## Info
 - ETH Zurich, Emilio Frazzoli

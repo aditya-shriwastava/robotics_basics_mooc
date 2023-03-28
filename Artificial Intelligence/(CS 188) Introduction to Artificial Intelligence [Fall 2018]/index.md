@@ -3,8 +3,6 @@
 ## References
 * [Video Lectures](https://www.youtube.com/playlist?list=PLsOUugYMBBJENfZ3XAToMsg44W7LeUVhF)
 * [Course Website](https://inst.eecs.berkeley.edu/~cs188/fa18/)
-* [My Lecture Notes](https://github.com/notebook-org/robotics/blob/master/AI/CS188%20Introduction%20to%20AI/index.md)
-* [My solutions to the Homework problems and projects](https://github.com/hw-problem-org/cs188_2018)
 
 ## Info
 - UC Berkeley, Pieter Abbeel

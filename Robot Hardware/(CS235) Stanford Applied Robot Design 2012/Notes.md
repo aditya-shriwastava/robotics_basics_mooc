@@ -1,2 +1,0 @@
-## Info
-- Stanford, Reuben Brewer

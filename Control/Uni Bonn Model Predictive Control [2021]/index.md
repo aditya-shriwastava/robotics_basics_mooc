@@ -1,8 +1,5 @@
 # Uni Bonn Model Predictive Control [2021]
 
-## References
-* [My Lecture Notes](https://github.com/notebook-org/robotics/blob/master/Control/Modern%20Control/Uni%20Bonn%20Model%20Predictive%20Control%20(MPC)/index.md)
-
 ## Info
 - University of Bonn
 - Lasse Peters, Cyrill Stachniss Lab

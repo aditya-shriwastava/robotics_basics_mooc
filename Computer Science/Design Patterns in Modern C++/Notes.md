@@ -1,2 +1,0 @@
-## Info
-- Udemy, Dmitri Nesteruk

@@ -1,8 +1,5 @@
 # Image Processing
 
-## References
-* [My Lecture Notes](https://github.com/notebook-org/robotics/blob/master/Computer%20Vision/Image%20Processing/index.md)
-
 ## Info
 - University of Bonn, Cyrill Stachiniss
 

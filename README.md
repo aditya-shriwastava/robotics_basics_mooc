@@ -11,7 +11,3 @@
 8. [Self Driving Cars](./Self%20Driving%20Cars/index.md)
 9. [Computer Science](./Computer%20Science/index.md)
 10. [Mathematics](./Mathematics/index.md)
-
-#### Note:
-- This list is bised toward "Mobile Robot Navigation" & "Manipulation"
-- Built using [NotesTree](https://github.com/aditya-shriwastava/NotesTree)

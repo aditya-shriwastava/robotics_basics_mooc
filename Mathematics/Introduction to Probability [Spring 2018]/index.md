@@ -3,7 +3,6 @@
 ## References
 * [Video Lectures](https://www.youtube.com/playlist?list=PLUl4u3cNGP60hI9ATjSFgLZpbNJ7myAg6)
 * [Course Website](https://ocw.mit.edu/resources/res-6-012-introduction-to-probability-spring-2018/)
-* [My Lecture Notes](https://github.com/notebook-org/Mathematics/blob/master/Probability%20and%20Statistics/Introduction%20to%20Probability%2C%20MIT%20%5BSpring%202018%5D/index.md)
 
 ## Info
 - MIT, John Tsitsiklis

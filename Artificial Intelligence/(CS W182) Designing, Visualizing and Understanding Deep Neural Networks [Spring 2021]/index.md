@@ -3,8 +3,6 @@
 ## References
 * [Video Lectures](https://www.youtube.com/playlist?list=PL_iWQOsE6TfVmKkQHucjPAoRtIJYt8a5A)
 * [Course Website](https://cs182sp21.github.io/)
-* [My Lecture Notes](https://github.com/notebook-org/robotics/blob/master/AI/CSW182%20Designing%2C%20Visualizing%20and%20Understanding%20Deep%20Neural%20Networks/index.md)
-* [My Solution to Homework 2](https://github.com/hw-problem-org/csw182_2021)
 
 ## Info
 - UC Berkeley, Sergey Levine
